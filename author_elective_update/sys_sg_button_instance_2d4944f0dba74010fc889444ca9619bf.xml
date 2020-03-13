@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Jump to User Profile">875b724687103300a785940307cb0b4b</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Announcement</label>
+        <location>trailing_swipe</location>
+        <name>Announcement</name>
+        <order>10</order>
+        <parent>e978bfe0db674010fc889444ca961985</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-11 19:14:10</sys_created_on>
+        <sys_id>2d4944f0dba74010fc889444ca9619bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Announcement</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_button_instance_2d4944f0dba74010fc889444ca9619bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-11 19:14:10</sys_updated_on>
+        <table>kb_knowledge</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=2d4944f0dba74010fc889444ca9619bf"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>aabc055bdbe9db000e785d00cf9619dd</instance_id>
+        <instance_name>dev56972</instance_name>
+        <name>sys_sg_button_instance_2d4944f0dba74010fc889444ca9619bf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Jump to User Profile">875b724687103300a785940307cb0b4b</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>Announcement</label><location>trailing_swipe</location><name>Announcement</name><order>10</order><parent>e978bfe0db674010fc889444ca961985</parent><parent_table>sys_sg_master_item</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-11 19:14:10</sys_created_on><sys_id>2d4944f0dba74010fc889444ca9619bf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Announcement</sys_name><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_sg_button_instance_2d4944f0dba74010fc889444ca9619bf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-11 19:14:10</sys_updated_on><table>kb_knowledge</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=2d4944f0dba74010fc889444ca9619bf"/></record_update>]]></payload>
+        <payload_hash>289382330</payload_hash>
+        <record_name>Announcement</record_name>
+        <reverted_from/>
+        <source>1274ba4adb530010fc889444ca9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-11 19:14:11</sys_created_on>
+        <sys_id>614944f0dba74010fc889444ca9619c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170cb04c0110000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-11 19:14:11</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>a94944f067a740103b442ab34eeb75c2</update_guid>
+        <update_guid_history>a94944f067a740103b442ab34eeb75c2:289382330</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-11 19:15:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>0188920233744f44800bb7f2cae21399</sys_id>
+        <sys_metadata>2d4944f0dba74010fc889444ca9619bf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Announcement</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_2d4944f0dba74010fc889444ca9619bf</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_2d4944f0dba74010fc889444ca9619bf">614944f0dba74010fc889444ca9619c3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-11 19:15:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

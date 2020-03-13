@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="DELETE">
+        <embedded_screen display_value="Details">125f8b8adbd30010fc889444ca9619a5</embedded_screen>
+        <form display_value="Open incidents">9a5f8b8adbd30010fc889444ca9619a2</form>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-03 20:36:17</sys_created_on>
+        <sys_id>1a5f8b8adbd30010fc889444ca9619ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_form_segment_1a5f8b8adbd30010fc889444ca9619ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-03 20:36:17</sys_updated_on>
+    </sys_sg_form_segment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>aabc055bdbe9db000e785d00cf9619dd</instance_id>
+        <instance_name>dev56972</instance_name>
+        <name>sys_sg_form_segment_1a5f8b8adbd30010fc889444ca9619ab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment"><sys_sg_form_segment action="INSERT_OR_UPDATE"><embedded_screen display_value="Details">125f8b8adbd30010fc889444ca9619a5</embedded_screen><form display_value="Open incidents">9a5f8b8adbd30010fc889444ca9619a2</form><order>10</order><sys_class_name>sys_sg_form_segment</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-03 20:36:17</sys_created_on><sys_id>1a5f8b8adbd30010fc889444ca9619ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_sg_form_segment_1a5f8b8adbd30010fc889444ca9619ab</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-03 20:36:17</sys_updated_on></sys_sg_form_segment></record_update>]]></payload>
+        <payload_hash>-1584184570</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1274ba4adb530010fc889444ca9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-03 20:36:17</sys_created_on>
+        <sys_id>d65f8b8adbd30010fc889444ca9619ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170a21d0a180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-03 20:36:17</sys_updated_on>
+        <type>Form Screen Segment</type>
+        <update_guid>125f8b8aebd30010c57e72cf995033ad</update_guid>
+        <update_guid_history>125f8b8aebd30010c57e72cf995033ad:-1584184570</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-03 23:17:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_form_segment">sys_sg_form_segment</sys_db_object>
+        <sys_id>1ee852cfc8804905bb39df7449e08cb9</sys_id>
+        <sys_metadata>1a5f8b8adbd30010fc889444ca9619ab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_sg_form_segment_1a5f8b8adbd30010fc889444ca9619ab</sys_update_name>
+        <sys_update_version display_value="sys_sg_form_segment_1a5f8b8adbd30010fc889444ca9619ab">d65f8b8adbd30010fc889444ca9619ad</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-03 23:17:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

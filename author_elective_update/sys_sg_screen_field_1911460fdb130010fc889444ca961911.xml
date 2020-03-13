@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>task_number</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>20</order>
+        <record_id_field/>
+        <screen display_value="Details">d3363db6db170010fc889444ca96192b</screen>
+        <screen_data_item_table>cmdb_ci_outage</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-06 17:28:16</sys_created_on>
+        <sys_id>1911460fdb130010fc889444ca961911</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>task_number</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_screen_field_1911460fdb130010fc889444ca961911</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-06 17:28:16</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="DELETE" query="documentkey=1911460fdb130010fc889444ca961911"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>aabc055bdbe9db000e785d00cf9619dd</instance_id>
+        <instance_name>dev56972</instance_name>
+        <name>sys_sg_screen_field_1911460fdb130010fc889444ca961911</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>task_number</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name/><hidden>false</hidden><order>20</order><record_id_field/><screen display_value="Details">d3363db6db170010fc889444ca96192b</screen><screen_data_item_table>cmdb_ci_outage</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-06 17:28:16</sys_created_on><sys_id>1911460fdb130010fc889444ca961911</sys_id><sys_mod_count>0</sys_mod_count><sys_name>task_number</sys_name><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_sg_screen_field_1911460fdb130010fc889444ca961911</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-06 17:28:16</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field><sys_translated_text action="delete_multiple" query="documentkey=1911460fdb130010fc889444ca961911"/></record_update>]]></payload>
+        <payload_hash>-846244256</payload_hash>
+        <record_name>task_number</record_name>
+        <reverted_from/>
+        <source>1274ba4adb530010fc889444ca9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-06 17:28:16</sys_created_on>
+        <sys_id>1511460fdb130010fc889444ca961913</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170b0e3fd1d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-06 17:28:16</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>5d11460f3c1300108baffc30fb8ecf12</update_guid>
+        <update_guid_history>5d11460f3c1300108baffc30fb8ecf12:-846244256</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-06 17:29:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>07756e922f454eed8adb77e6597dbf71</sys_id>
+        <sys_metadata>1911460fdb130010fc889444ca961911</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>task_number</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_1911460fdb130010fc889444ca961911</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_1911460fdb130010fc889444ca961911">1511460fdb130010fc889444ca961913</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-06 17:29:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description>Voice enabling</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_464129_mobile_cs.glide.sg.voice_search.enabled</name>
+        <read_roles/>
+        <suffix>glide.sg.voice_search.enabled</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-12 17:04:37</sys_created_on>
+        <sys_id>28e4fc49dba78010fc889444ca961906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_464129_mobile_cs.glide.sg.voice_search.enabled</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_properties_28e4fc49dba78010fc889444ca961906</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-12 17:04:37</sys_updated_on>
+        <type>boolean</type>
+        <value>true</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=28e4fc49dba78010fc889444ca961906"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>aabc055bdbe9db000e785d00cf9619dd</instance_id>
+        <instance_name>dev56972</instance_name>
+        <name>sys_properties_28e4fc49dba78010fc889444ca961906</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Voice enabling</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>x_464129_mobile_cs.glide.sg.voice_search.enabled</name><read_roles/><suffix>glide.sg.voice_search.enabled</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-12 17:04:37</sys_created_on><sys_id>28e4fc49dba78010fc889444ca961906</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_464129_mobile_cs.glide.sg.voice_search.enabled</sys_name><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_properties_28e4fc49dba78010fc889444ca961906</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-12 17:04:37</sys_updated_on><type>boolean</type><value>true</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=28e4fc49dba78010fc889444ca961906"/></record_update>]]></payload>
+        <payload_hash>990390866</payload_hash>
+        <record_name>x_464129_mobile_cs.glide.sg.voice_search.enabled</record_name>
+        <reverted_from/>
+        <source>1274ba4adb530010fc889444ca9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-12 17:04:38</sys_created_on>
+        <sys_id>b135f089dba78010fc889444ca961984</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170cfb4841a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-12 17:04:38</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>b535f089c2a780101d4276bb86b61683</update_guid>
+        <update_guid_history>b535f089c2a780101d4276bb86b61683:990390866</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-12 17:21:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>6d85846762db43489554913e00fb4810</sys_id>
+        <sys_metadata>28e4fc49dba78010fc889444ca961906</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_464129_mobile_cs.glide.sg.voice_search.enabled</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_properties_28e4fc49dba78010fc889444ca961906</sys_update_name>
+        <sys_update_version display_value="sys_properties_28e4fc49dba78010fc889444ca961906">b135f089dba78010fc889444ca961984</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-12 17:21:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

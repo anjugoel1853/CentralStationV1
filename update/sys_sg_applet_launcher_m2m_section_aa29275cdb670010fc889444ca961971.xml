@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="CentralStation">a019cf8adb930010fc889444ca961906</applet_launcher>
+        <order>60</order>
+        <section display_value="Mobile Dashboard">6e29275cdb670010fc889444ca96196e</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-10 22:15:24</sys_created_on>
+        <sys_id>aa29275cdb670010fc889444ca961971</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_aa29275cdb670010fc889444ca961971</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-11 18:12:43</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

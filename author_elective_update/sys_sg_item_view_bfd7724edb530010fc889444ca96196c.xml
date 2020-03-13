@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="DELETE">
+        <data_item/>
+        <dependency_fields>sys_created_on-11566,sys_created_by-3907,sys_updated_on-22124,sys_updated_by-3093</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":17,"Bottom":15},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Right":12},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","CornerRadius":2,"BackgroundColor":"#f1f1f1","Height":21,"Width":100,"Margin":{},"studio_template_field_id":"E1","Text":"","CellId":"sys_created_on","TextColor":"#293e40","TextAlignment":"Center","MaxLines":1,"Font":{"Weight":"semibold","Size":13},"Id":11566}],"Id":42845},{"Type":"ViewGroup","Margin":{},"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E2","Text":"","CellId":"sys_created_by","TextColor":"#7d8a8c","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":3907}],"Id":42846}],"Id":12259},{"Type":"Text","Margin":{"Top":9},"TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":18},"studio_template_field_id":"E3","Text":"","CellId":"sys_updated_on","Id":22124},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"ViewGroup","Margin":{"Top":9},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E4","Text":"${sys_updated_by}","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":3091},{"Type":"Image","CornerRadius":11,"Height":22,"Width":22,"Margin":{"Right":6},"studio_template_field_id":"E5","Scaling":"Fill","Id":38286},{"Type":"Text","Margin":{},"studio_template_field_id":"E4","Text":"","CellId":"sys_updated_by","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":3093}],"Id":34348},{"Type":"ViewGroup","Margin":{"Top":7},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","studio_template_is_label":true,"studio_template_field_id":"E6","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Margin":{"Right":8},"Id":9763},{"Type":"Text","Margin":{},"studio_template_field_id":"E6","Text":"","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":9764}],"Id":34349}],"Id":12261}],"studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Id":28090}</item_view_json>
+        <name>My Incidents Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-03 18:53:42</sys_created_on>
+        <sys_id>bfd7724edb530010fc889444ca96196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Incidents Item View</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_item_view_bfd7724edb530010fc889444ca96196c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-03 18:53:42</sys_updated_on>
+        <table>x_464129_mobile_cs_incidents</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="DELETE" query="documentkey=bfd7724edb530010fc889444ca96196c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>aabc055bdbe9db000e785d00cf9619dd</instance_id>
+        <instance_name>dev56972</instance_name>
+        <name>sys_sg_item_view_bfd7724edb530010fc889444ca96196c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view"><sys_sg_item_view action="INSERT_OR_UPDATE"><data_item/><dependency_fields>sys_created_on-11566,sys_created_by-3907,sys_updated_on-22124,sys_updated_by-3093</dependency_fields><item_view_json>{"Type":"ViewGroup","Margin":{"Top":17,"Bottom":15},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Right":12},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","CornerRadius":2,"BackgroundColor":"#f1f1f1","Height":21,"Width":100,"Margin":{},"studio_template_field_id":"E1","Text":"","CellId":"sys_created_on","TextColor":"#293e40","TextAlignment":"Center","MaxLines":1,"Font":{"Weight":"semibold","Size":13},"Id":11566}],"Id":42845},{"Type":"ViewGroup","Margin":{},"Orientation":"Vertical","Alignment":"Right","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E2","Text":"","CellId":"sys_created_by","TextColor":"#7d8a8c","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":3907}],"Id":42846}],"Id":12259},{"Type":"Text","Margin":{"Top":9},"TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":18},"studio_template_field_id":"E3","Text":"","CellId":"sys_updated_on","Id":22124},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"ViewGroup","Margin":{"Top":9},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E4","Text":"${sys_updated_by}","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":3091},{"Type":"Image","CornerRadius":11,"Height":22,"Width":22,"Margin":{"Right":6},"studio_template_field_id":"E5","Scaling":"Fill","Id":38286},{"Type":"Text","Margin":{},"studio_template_field_id":"E4","Text":"","CellId":"sys_updated_by","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":3093}],"Id":34348},{"Type":"ViewGroup","Margin":{"Top":7},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","studio_template_is_label":true,"studio_template_field_id":"E6","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Margin":{"Right":8},"Id":9763},{"Type":"Text","Margin":{},"studio_template_field_id":"E6","Text":"","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":9764}],"Id":34349}],"Id":12261}],"studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Id":28090}</item_view_json><name>My Incidents Item View</name><short_description/><sys_class_name>sys_sg_item_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-03 18:53:42</sys_created_on><sys_id>bfd7724edb530010fc889444ca96196c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My Incidents Item View</sys_name><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_sg_item_view_bfd7724edb530010fc889444ca96196c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-03 18:53:42</sys_updated_on><table>x_464129_mobile_cs_incidents</table><ui_styles/></sys_sg_item_view><sys_translated_text action="delete_multiple" query="documentkey=bfd7724edb530010fc889444ca96196c"/></record_update>]]></payload>
+        <payload_hash>1976672697</payload_hash>
+        <record_name>My Incidents Item View</record_name>
+        <reverted_from/>
+        <source>1274ba4adb530010fc889444ca9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-03 18:53:42</sys_created_on>
+        <sys_id>bbd7fa4edb530010fc889444ca96193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170a1bf22160000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-03 18:53:42</sys_updated_on>
+        <type>Item view</type>
+        <update_guid>7fd7724ed8530010624db31c3cf2db6e</update_guid>
+        <update_guid_history>7fd7724ed8530010624db31c3cf2db6e:1976672697</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-03 20:51:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_view">sys_sg_item_view</sys_db_object>
+        <sys_id>0672ba22853144e48033dd68f1711f44</sys_id>
+        <sys_metadata>bfd7724edb530010fc889444ca96196c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Incidents Item View</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_sg_item_view_bfd7724edb530010fc889444ca96196c</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_view_bfd7724edb530010fc889444ca96196c">bbd7fa4edb530010fc889444ca96193f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-03 20:51:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description>Approve</description>
+        <execution_script/>
+        <name>Approve</name>
+        <query_condition table="sysapproval_approver">sys_idSTARTSWITHapprove_SysID_IP^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="approve_SysID_IP"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-04 23:15:30</sys_created_on>
+        <sys_id>23fc306edb170010fc889444ca96191f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Approve</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_23fc306edb170010fc889444ca96191f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-05 17:13:02</sys_updated_on>
+        <table>sysapproval_approver</table>
+        <template>approval_column=Approved^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>false</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=23fc306edb170010fc889444ca96191f"/>
+</record_update>
