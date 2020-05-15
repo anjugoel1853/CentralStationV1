@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="DELETE">
+        <navigation display_value="Mobile Agent Nav">0188b0a2db170010fc889444ca961928</navigation>
+        <navigation_tab/>
+        <order/>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 00:23:51</sys_created_on>
+        <sys_id>834c94582f68949051d958a72799b632</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_834c94582f68949051d958a72799b632</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 00:23:51</sys_updated_on>
+    </sys_sg_navigation_tab_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>b13a3de2db405fc060a6f0e5bf9619e2</instance_id>
+        <instance_name>dev49204</instance_name>
+        <name>sys_sg_navigation_tab_map_834c94582f68949051d958a72799b632</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map"><sys_sg_navigation_tab_map action="INSERT_OR_UPDATE"><navigation display_value="Mobile Agent Nav">0188b0a2db170010fc889444ca961928</navigation><navigation_tab/><order/><sys_class_name>sys_sg_navigation_tab_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-29 00:23:51</sys_created_on><sys_id>834c94582f68949051d958a72799b632</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_sg_navigation_tab_map_834c94582f68949051d958a72799b632</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-29 00:23:51</sys_updated_on></sys_sg_navigation_tab_map></record_update>]]></payload>
+        <payload_hash>-113625021</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1274ba4adb530010fc889444ca9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 01:22:50</sys_created_on>
+        <sys_id>79f9e0182fa8949051d958a72799b6c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c38784040000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 01:22:50</sys_updated_on>
+        <type>Navigation Tab Map</type>
+        <update_guid>f97c549887689490bfca68820e60c4a3</update_guid>
+        <update_guid_history>f97c549887689490bfca68820e60c4a3:1390375732,f97c549887689490bfca68820e60c4a3:1390375732</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-04 18:40:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_navigation_tab_map">sys_sg_navigation_tab_map</sys_db_object>
+        <sys_id>88db0bffaf9c42b093f2c13c2aae4900</sys_id>
+        <sys_metadata>834c94582f68949051d958a72799b632</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_sg_navigation_tab_map_834c94582f68949051d958a72799b632</sys_update_name>
+        <sys_update_version display_value="sys_sg_navigation_tab_map_834c94582f68949051d958a72799b632">79f9e0182fa8949051d958a72799b6c7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-04 18:40:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

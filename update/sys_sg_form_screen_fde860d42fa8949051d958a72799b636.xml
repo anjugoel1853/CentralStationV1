@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="Approver_list Icon">71e860d42fa8949051d958a72799b61a</icon>
+        <item_view display_value="Approver_list Header Item View">71e860d42fa8949051d958a72799b61c</item_view>
+        <name>Approvers</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 01:18:11</sys_created_on>
+        <sys_id>fde860d42fa8949051d958a72799b636</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Approvers</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_form_screen_fde860d42fa8949051d958a72799b636</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-30 16:44:48</sys_updated_on>
+        <table>sysapproval_approver</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=fde860d42fa8949051d958a72799b636"/>
+</record_update>

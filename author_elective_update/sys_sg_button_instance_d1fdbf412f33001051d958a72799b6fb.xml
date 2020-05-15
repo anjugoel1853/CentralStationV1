@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Email">31d833f82fb3481051d958a72799b661</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name>opened_by.sys_created_by</field_name>
+        <icon/>
+        <label/>
+        <location>field</location>
+        <name/>
+        <order>10</order>
+        <parent>549d37052f33001051d958a72799b66f</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-25 17:57:24</sys_created_on>
+        <sys_id>d1fdbf412f33001051d958a72799b6fb</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_button_instance_d1fdbf412f33001051d958a72799b6fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-25 18:02:37</sys_updated_on>
+        <table>task</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=d1fdbf412f33001051d958a72799b6fb"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>b13a3de2db405fc060a6f0e5bf9619e2</instance_id>
+        <instance_name>dev49204</instance_name>
+        <name>sys_sg_button_instance_d1fdbf412f33001051d958a72799b6fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Email">31d833f82fb3481051d958a72799b661</button><color_theme>primary</color_theme><description/><field_name>opened_by.sys_created_by</field_name><icon/><label/><location>field</location><name/><order>10</order><parent>549d37052f33001051d958a72799b66f</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-25 17:57:24</sys_created_on><sys_id>d1fdbf412f33001051d958a72799b6fb</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_sg_button_instance_d1fdbf412f33001051d958a72799b6fb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-25 18:02:37</sys_updated_on><table>task</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=d1fdbf412f33001051d958a72799b6fb"/></record_update>]]></payload>
+        <payload_hash>-726815176</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1274ba4adb530010fc889444ca9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-25 18:02:37</sys_created_on>
+        <sys_id>f12fb7852f33001051d958a72799b661</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17112dc44030000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-25 18:02:37</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>7d2fb785093300103e99d4a9f3eee560</update_guid>
+        <update_guid_history>7d2fb785093300103e99d4a9f3eee560:-726815176,470e374505330010aed48553e228f385:736822841,1dfdbf41e333001052b52f850d069ffc:-726815176</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-25 18:05:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>179d113b05ad42299229bbd7126b5a41</sys_id>
+        <sys_metadata>d1fdbf412f33001051d958a72799b6fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_d1fdbf412f33001051d958a72799b6fb</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_d1fdbf412f33001051d958a72799b6fb">f12fb7852f33001051d958a72799b661</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-25 18:05:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

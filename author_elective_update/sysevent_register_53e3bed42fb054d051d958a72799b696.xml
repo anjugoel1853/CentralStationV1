@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="DELETE">
+        <caller_access/>
+        <description/>
+        <event_name>x_464129_mobile_cs.change.calendar.notify</event_name>
+        <fired_by>change events business rule</fired_by>
+        <queue/>
+        <suffix>change.calendar.notify</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-11 21:41:47</sys_created_on>
+        <sys_id>53e3bed42fb054d051d958a72799b696</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_464129_mobile_cs.change.calendar.notify</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sysevent_register_53e3bed42fb054d051d958a72799b696</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-11 21:41:47</sys_updated_on>
+        <table>change_request</table>
+    </sysevent_register>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>b13a3de2db405fc060a6f0e5bf9619e2</instance_id>
+        <instance_name>dev49204</instance_name>
+        <name>sysevent_register_53e3bed42fb054d051d958a72799b696</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register"><sysevent_register action="INSERT_OR_UPDATE"><caller_access/><description/><event_name>x_464129_mobile_cs.change.calendar.notify</event_name><fired_by>change events business rule</fired_by><queue/><suffix>change.calendar.notify</suffix><sys_class_name>sysevent_register</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-11 21:41:47</sys_created_on><sys_id>53e3bed42fb054d051d958a72799b696</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_464129_mobile_cs.change.calendar.notify</sys_name><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sysevent_register_53e3bed42fb054d051d958a72799b696</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-11 21:41:47</sys_updated_on><table>change_request</table></sysevent_register></record_update>]]></payload>
+        <payload_hash>1249519548</payload_hash>
+        <record_name>x_464129_mobile_cs.change.calendar.notify</record_name>
+        <reverted_from/>
+        <source>1274ba4adb530010fc889444ca9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-11 21:41:47</sys_created_on>
+        <sys_id>e60436182fb054d051d958a72799b6ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17205afcf5f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-11 21:41:47</sys_updated_on>
+        <type>Event Registration</type>
+        <update_guid>660476d43db054d026f7ed9b80e8e245</update_guid>
+        <update_guid_history>660476d43db054d026f7ed9b80e8e245:1249519548</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-11 22:46:46</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_register">sysevent_register</sys_db_object>
+        <sys_id>117959fbfc544e5082820cc19c7ce900</sys_id>
+        <sys_metadata>53e3bed42fb054d051d958a72799b696</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_464129_mobile_cs.change.calendar.notify</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent display_value="Change Request">24d9c515dbc30010fc889444ca9619db</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sysevent_register_53e3bed42fb054d051d958a72799b696</sys_update_name>
+        <sys_update_version display_value="sysevent_register_53e3bed42fb054d051d958a72799b696">e60436182fb054d051d958a72799b6ac</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-11 22:46:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

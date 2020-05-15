@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Address-Book">e704f33e2f50909051d958a72799b62f</icon>
+        <name>Approvers</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-25 00:14:53</sys_created_on>
+        <sys_id>6f047b3e2f50909051d958a72799b6f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approvers</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_list_screen_6f047b3e2f50909051d958a72799b6f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-25 00:14:53</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=6f047b3e2f50909051d958a72799b6f5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>b13a3de2db405fc060a6f0e5bf9619e2</instance_id>
+        <instance_name>dev49204</instance_name>
+        <name>sys_sg_list_screen_6f047b3e2f50909051d958a72799b6f5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description/><dynamic_prefetch_count/><fetch_type>on_demand</fetch_type><hide_filters>false</hide_filters><icon display_value="icon-Address-Book">e704f33e2f50909051d958a72799b62f</icon><name>Approvers</name><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-25 00:14:53</sys_created_on><sys_id>6f047b3e2f50909051d958a72799b6f5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Approvers</sys_name><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_sg_list_screen_6f047b3e2f50909051d958a72799b6f5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-25 00:14:53</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=6f047b3e2f50909051d958a72799b6f5"/></record_update>]]></payload>
+        <payload_hash>-1837098890</payload_hash>
+        <record_name>Approvers</record_name>
+        <reverted_from/>
+        <source>1274ba4adb530010fc889444ca9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-25 00:14:53</sys_created_on>
+        <sys_id>ef047b3e2f50909051d958a72799b6f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171aeafe02a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-25 00:14:53</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>2b047b3e6e509090a06a3394b96d3bf7</update_guid>
+        <update_guid_history>2b047b3e6e509090a06a3394b96d3bf7:-1837098890</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 21:05:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>1ce7eb0347574d4d9c57a92c5c4f16b9</sys_id>
+        <sys_metadata>6f047b3e2f50909051d958a72799b6f5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approvers</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_6f047b3e2f50909051d958a72799b6f5</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_6f047b3e2f50909051d958a72799b6f5">ef047b3e2f50909051d958a72799b6f7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 21:05:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

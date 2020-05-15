@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="DELETE">
+        <button display_value="Open Group CR">0760a6052fe8589051d958a72799b6e4</button>
+        <button_table>change_request</button_table>
+        <constant_value/>
+        <destination_ui_parameter display_value="Assignment_group">76016e052fe8589051d958a72799b678</destination_ui_parameter>
+        <source_field>assignment_group</source_field>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 17:59:01</sys_created_on>
+        <sys_id>39e026052fe8589051d958a72799b658</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>76016e052fe8589051d958a72799b678</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_39e026052fe8589051d958a72799b658</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 17:59:01</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>b13a3de2db405fc060a6f0e5bf9619e2</instance_id>
+        <instance_name>dev49204</instance_name>
+        <name>sys_sg_redirect_dest_field_39e026052fe8589051d958a72799b658</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field"><sys_sg_redirect_dest_field action="INSERT_OR_UPDATE"><button display_value="Open Group CR">0760a6052fe8589051d958a72799b6e4</button><button_table>change_request</button_table><constant_value/><destination_ui_parameter display_value="Assignment_group">76016e052fe8589051d958a72799b678</destination_ui_parameter><source_field>assignment_group</source_field><source_ui_parameter/><sys_class_name>sys_sg_redirect_dest_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-01 17:59:01</sys_created_on><sys_id>39e026052fe8589051d958a72799b658</sys_id><sys_mod_count>0</sys_mod_count><sys_name>76016e052fe8589051d958a72799b678</sys_name><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_sg_redirect_dest_field_39e026052fe8589051d958a72799b658</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-01 17:59:01</sys_updated_on><type>field</type></sys_sg_redirect_dest_field></record_update>]]></payload>
+        <payload_hash>-1041068297</payload_hash>
+        <record_name>76016e052fe8589051d958a72799b678</record_name>
+        <reverted_from/>
+        <source>1274ba4adb530010fc889444ca9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 17:59:01</sys_created_on>
+        <sys_id>3d2166052fe8589051d958a72799b60b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171d164433e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 17:59:01</sys_updated_on>
+        <type>Redirection destination fields</type>
+        <update_guid>7521660578e85890b6ae64712291750b</update_guid>
+        <update_guid_history>7521660578e85890b6ae64712291750b:-1041068297</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 18:03:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_redirect_dest_field">sys_sg_redirect_dest_field</sys_db_object>
+        <sys_id>3f0c4a09b130470ba897be0bc8a55a19</sys_id>
+        <sys_metadata>39e026052fe8589051d958a72799b658</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>76016e052fe8589051d958a72799b678</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_sg_redirect_dest_field_39e026052fe8589051d958a72799b658</sys_update_name>
+        <sys_update_version display_value="sys_sg_redirect_dest_field_39e026052fe8589051d958a72799b658">3d2166052fe8589051d958a72799b60b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 18:03:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>state-22123,approver-22124</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Bottom":15,"Top":17},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E1","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"state","Id":22123},{"Type":"Text","Margin":{"Top":10},"studio_template_field_id":"E2","TextColor":"#293E40","TextAlignment":"Left","MaxLines":1,"Font":{"Size":18,"Weight":"medium"},"CellId":"approver","Id":22124},{"Type":"ViewGroup","Margin":{"Top":11},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Image","CornerRadius":11,"Height":22,"Width":22,"Margin":{"Right":8},"studio_template_field_id":"E3","Scaling":"Fill","Id":13144},{"Type":"Text","Margin":{},"studio_template_field_id":"E4","TextColor":"#293e40","TextAlignment":"Center","MaxLines":1,"Font":{"Weight":"regular","Size":15},"Id":32753}],"Id":12261}],"studio_card_id":"91f9e01173c12300d396c8168bf6a747","Id":28090}</item_view_json>
+        <name>Approvers Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 21:06:14</sys_created_on>
+        <sys_id>833f6b002fe4949051d958a72799b648</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Approvers Item View</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_item_view_833f6b002fe4949051d958a72799b648</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 22:29:17</sys_updated_on>
+        <table>sysapproval_approver</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=833f6b002fe4949051d958a72799b648"/>
+</record_update>

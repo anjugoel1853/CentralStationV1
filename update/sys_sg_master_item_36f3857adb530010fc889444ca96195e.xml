@@ -3,7 +3,7 @@
         <condition_order>-1</condition_order>
         <datasource_table>incident</datasource_table>
         <datasource_table_condition/>
-        <embedded_screen display_value="Open P1s">62f3857adb530010fc889444ca961955</embedded_screen>
+        <embedded_screen display_value="Open P0/P1Cs">62f3857adb530010fc889444ca961955</embedded_screen>
         <item_view display_value="Open P1s Item View">aaf3017adb530010fc889444ca96198c</item_view>
         <name>Open P1s Master Item</name>
         <sys_class_name>sys_sg_master_item</sys_class_name>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="DELETE">
+        <available_offline>false</available_offline>
+        <description>My incidents</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Edit">425f4b4adbd30010fc889444ca961917</icon>
+        <name>My Incidents</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-03 20:36:16</sys_created_on>
+        <sys_id>de5f8b8adbd30010fc889444ca961999</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name>My Incidents</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_list_screen_de5f8b8adbd30010fc889444ca961999</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-12 16:32:17</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="DELETE" query="documentkey=de5f8b8adbd30010fc889444ca961999"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>aabc055bdbe9db000e785d00cf9619dd</instance_id>
+        <instance_name>dev56972</instance_name>
+        <name>sys_sg_list_screen_de5f8b8adbd30010fc889444ca961999</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen"><sys_sg_list_screen action="INSERT_OR_UPDATE"><available_offline>false</available_offline><description>My incidents</description><dynamic_prefetch_count/><fetch_type>on_demand</fetch_type><hide_filters>false</hide_filters><icon display_value="icon-Edit">425f4b4adbd30010fc889444ca961917</icon><name>My Incidents</name><roles_override/><sys_class_name>sys_sg_list_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-03 20:36:16</sys_created_on><sys_id>de5f8b8adbd30010fc889444ca961999</sys_id><sys_mod_count>18</sys_mod_count><sys_name>My Incidents</sys_name><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_sg_list_screen_de5f8b8adbd30010fc889444ca961999</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-12 16:32:17</sys_updated_on></sys_sg_list_screen><sys_translated_text action="delete_multiple" query="documentkey=de5f8b8adbd30010fc889444ca961999"/></record_update>]]></payload>
+        <payload_hash>-402362869</payload_hash>
+        <record_name>My Incidents</record_name>
+        <reverted_from/>
+        <source>1274ba4adb530010fc889444ca9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-12 16:32:17</sys_created_on>
+        <sys_id>bbcde881dba78010fc889444ca961936</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170cf96e5930000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-12 16:32:17</sys_updated_on>
+        <type>List screen</type>
+        <update_guid>37cde88194a780102ed7ec6f02ebbc36</update_guid>
+        <update_guid_history>37cde88194a780102ed7ec6f02ebbc36:-402362869,152d6c41b2a780103bc550c3dd49c463:-1206737365,c5fc99403563001002411e8b33de9019:-402362869,682ce97e71d300101764f27cf3606a13:1869223981,0ab215b602930010c2d2570ea83ff126:1580323941,5a5f8b8aead3001097cb6c696bc9ca9b:-2076647323</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-09 21:13:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_list_screen">sys_sg_list_screen</sys_db_object>
+        <sys_id>0711113b4361479080fd6a110fa59240</sys_id>
+        <sys_metadata>de5f8b8adbd30010fc889444ca961999</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Incidents</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_sg_list_screen_de5f8b8adbd30010fc889444ca961999</sys_update_name>
+        <sys_update_version display_value="sys_sg_list_screen_de5f8b8adbd30010fc889444ca961999">bbcde881dba78010fc889444ca961936</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-09 21:13:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

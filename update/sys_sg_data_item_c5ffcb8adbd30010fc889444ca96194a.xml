@@ -4,20 +4,21 @@
         <description/>
         <group_by/>
         <name>Approvals</name>
-        <query_condition/>
+        <query_condition table="sysapproval_approver">state=requested<item display_value="Requested" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="requested"/>
+        </query_condition>
         <query_condition_script/>
         <sys_class_name>sys_sg_data_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-03 20:38:55</sys_created_on>
         <sys_id>c5ffcb8adbd30010fc889444ca96194a</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Approvals</sys_name>
         <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
         <sys_update_name>sys_sg_data_item_c5ffcb8adbd30010fc889444ca96194a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-03 21:21:43</sys_updated_on>
+        <sys_updated_on>2020-04-08 16:38:16</sys_updated_on>
         <table>sysapproval_approver</table>
     </sys_sg_data_item>
     <sys_translated_text action="delete_multiple" query="documentkey=c5ffcb8adbd30010fc889444ca96194a"/>

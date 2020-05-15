@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Caller Phone">7f8f73902fa4d49051d958a72799b687</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name>caller_id</field_name>
+        <icon/>
+        <label>Phone</label>
+        <location>field</location>
+        <name>Caller</name>
+        <order>50</order>
+        <parent>15c3e3c6677023005326c3105685efad</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 16:57:09</sys_created_on>
+        <sys_id>c0df77902fa4d49051d958a72799b686</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Caller</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_button_instance_c0df77902fa4d49051d958a72799b686</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 17:10:04</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=c0df77902fa4d49051d958a72799b686"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>b13a3de2db405fc060a6f0e5bf9619e2</instance_id>
+        <instance_name>dev49204</instance_name>
+        <name>sys_sg_button_instance_c0df77902fa4d49051d958a72799b686</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Caller Phone">7f8f73902fa4d49051d958a72799b687</button><color_theme>primary</color_theme><description/><field_name>caller_id</field_name><icon/><label>Phone</label><location>field</location><name>Caller</name><order>50</order><parent>15c3e3c6677023005326c3105685efad</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-29 16:57:09</sys_created_on><sys_id>c0df77902fa4d49051d958a72799b686</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Caller</sys_name><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_sg_button_instance_c0df77902fa4d49051d958a72799b686</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-29 17:10:04</sys_updated_on><table>incident</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=c0df77902fa4d49051d958a72799b686"/></record_update>]]></payload>
+        <payload_hash>-325385146</payload_hash>
+        <record_name>Caller</record_name>
+        <reverted_from/>
+        <source>1274ba4adb530010fc889444ca9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 17:10:04</sys_created_on>
+        <sys_id>a1c288642fa4d49051d958a72799b68f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c6eabda00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 17:10:04</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>e9c2886449a4d490c703c6336f6adc8e</update_guid>
+        <update_guid_history>e9c2886449a4d490c703c6336f6adc8e:-325385146,244280647ca4d49020b52b801141cfba:-186599739,44f00ce096a4d4906538693efc9822da:-464170553,0cdf779042a4d49011bb0cb4177be287:515792071</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 17:17:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>8ed79ec6a68440b4895f195a1c2ac510</sys_id>
+        <sys_metadata>c0df77902fa4d49051d958a72799b686</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Caller</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_c0df77902fa4d49051d958a72799b686</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_c0df77902fa4d49051d958a72799b686">a1c288642fa4d49051d958a72799b68f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 17:17:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA Open Incident Process">186e6b65d7b00200b96d45a3ce6103ed</legacy_page>
+        <name>PA Open Incident Process</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-13 18:28:53</sys_created_on>
+        <sys_id>581b940d2f70101051d958a72799b6e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Open Incident Process</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_grid_canvas_581b940d2f70101051d958a72799b6e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-13 18:28:53</sys_updated_on>
+    </sys_grid_canvas>
+</record_update>

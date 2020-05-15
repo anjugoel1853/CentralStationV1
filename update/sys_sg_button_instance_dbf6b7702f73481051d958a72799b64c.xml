@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Add Comments">a905cca767302300b270c3105685ef0a</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Add Comments</label>
+        <location>trailing_swipe</location>
+        <name>Add Comments</name>
+        <order>10</order>
+        <parent>1e5f8b8adbd30010fc889444ca9619ae</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 22:48:28</sys_created_on>
+        <sys_id>dbf6b7702f73481051d958a72799b64c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add Comments</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_button_instance_dbf6b7702f73481051d958a72799b64c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 22:48:28</sys_updated_on>
+        <table>task</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=dbf6b7702f73481051d958a72799b64c"/>
+</record_update>

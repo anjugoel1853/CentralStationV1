@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">732ff7852f33001051d958a72799b63d</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">3b2ff7852f33001051d958a72799b63a</icon>
+        <label>CS Incidents Launcher Button Instance</label>
+        <location>top</location>
+        <name>CS Incidents Launcher Button Instance</name>
+        <order/>
+        <parent>a019cf8adb930010fc889444ca961906</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-25 18:02:45</sys_created_on>
+        <sys_id>332ff7852f33001051d958a72799b641</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CS Incidents Launcher Button Instance</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_button_instance_332ff7852f33001051d958a72799b641</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-25 18:02:45</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=332ff7852f33001051d958a72799b641"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>b13a3de2db405fc060a6f0e5bf9619e2</instance_id>
+        <instance_name>dev49204</instance_name>
+        <name>sys_sg_button_instance_332ff7852f33001051d958a72799b641</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">732ff7852f33001051d958a72799b63d</button><color_theme>primary</color_theme><description/><field_name/><icon display_value="User Icon">3b2ff7852f33001051d958a72799b63a</icon><label>CS Incidents Launcher Button Instance</label><location>top</location><name>CS Incidents Launcher Button Instance</name><order/><parent>a019cf8adb930010fc889444ca961906</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-25 18:02:45</sys_created_on><sys_id>332ff7852f33001051d958a72799b641</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CS Incidents Launcher Button Instance</sys_name><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_sg_button_instance_332ff7852f33001051d958a72799b641</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-25 18:02:45</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=332ff7852f33001051d958a72799b641"/></record_update>]]></payload>
+        <payload_hash>1320962869</payload_hash>
+        <record_name>CS Incidents Launcher Button Instance</record_name>
+        <reverted_from/>
+        <source>1274ba4adb530010fc889444ca9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-25 18:02:45</sys_created_on>
+        <sys_id>b32ff7852f33001051d958a72799b643</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17112dc64770000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-25 18:02:45</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>fb2ff785893300109f0348511f90ae42</update_guid>
+        <update_guid_history>fb2ff785893300109f0348511f90ae42:1320962869</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-25 18:26:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>be53f52a01f54be4a0be5f6356c94d61</sys_id>
+        <sys_metadata>332ff7852f33001051d958a72799b641</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CS Incidents Launcher Button Instance</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_332ff7852f33001051d958a72799b641</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_332ff7852f33001051d958a72799b641">b32ff7852f33001051d958a72799b643</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-25 18:26:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

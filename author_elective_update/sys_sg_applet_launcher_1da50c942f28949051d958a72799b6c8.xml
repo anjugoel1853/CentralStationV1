@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="DELETE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Approvers</name>
+        <required_roles/>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 22:44:52</sys_created_on>
+        <sys_id>1da50c942f28949051d958a72799b6c8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Approver</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_1da50c942f28949051d958a72799b6c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 22:46:24</sys_updated_on>
+        <title>Approver</title>
+    </sys_sg_applet_launcher>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>b13a3de2db405fc060a6f0e5bf9619e2</instance_id>
+        <instance_name>dev49204</instance_name>
+        <name>sys_sg_applet_launcher_1da50c942f28949051d958a72799b6c8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher"><sys_sg_applet_launcher action="INSERT_OR_UPDATE"><active>true</active><available_offline>false</available_offline><header_button/><header_titles/><hide_empty_sections>true</hide_empty_sections><name>Approvers</name><required_roles/><search_config/><sys_class_name>sys_sg_applet_launcher</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-28 22:44:52</sys_created_on><sys_id>1da50c942f28949051d958a72799b6c8</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Approver</sys_name><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_sg_applet_launcher_1da50c942f28949051d958a72799b6c8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-28 22:46:24</sys_updated_on><title>Approver</title></sys_sg_applet_launcher></record_update>]]></payload>
+        <payload_hash>-1984092407</payload_hash>
+        <record_name>Approver</record_name>
+        <reverted_from/>
+        <source>1274ba4adb530010fc889444ca9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-28 22:46:24</sys_created_on>
+        <sys_id>162604d42f28949051d958a72799b68c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c2f84b280000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-28 22:46:24</sys_updated_on>
+        <type>Applet Launcher</type>
+        <update_guid>9e2604d4c028949040e84a2a8eb4c08b</update_guid>
+        <update_guid_history>9e2604d4c028949040e84a2a8eb4c08b:-1984092407,7bc50c94662894906cfa41068f1b6ba4:1937915741</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 01:23:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher">sys_sg_applet_launcher</sys_db_object>
+        <sys_id>02156b267ef247dba85caefbef34f4d1</sys_id>
+        <sys_metadata>1da50c942f28949051d958a72799b6c8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approver</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_1da50c942f28949051d958a72799b6c8</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_1da50c942f28949051d958a72799b6c8">162604d42f28949051d958a72799b68c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 01:23:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

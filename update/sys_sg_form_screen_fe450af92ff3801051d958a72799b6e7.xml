@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="Asset Search Icon">7e450af92ff3801051d958a72799b6e3</icon>
+        <item_view display_value="Asset Search Header Item View">be450af92ff3801051d958a72799b6e5</item_view>
+        <name>Asset Search</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-27 17:05:38</sys_created_on>
+        <sys_id>fe450af92ff3801051d958a72799b6e7</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Asset Search</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_form_screen_fe450af92ff3801051d958a72799b6e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-15 22:49:38</sys_updated_on>
+        <table>alm_asset</table>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=fe450af92ff3801051d958a72799b6e7"/>
+</record_update>

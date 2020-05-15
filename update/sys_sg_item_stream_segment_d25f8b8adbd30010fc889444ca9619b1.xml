@@ -3,7 +3,7 @@
         <interleave_order_direction>asc</interleave_order_direction>
         <name>Item Stream Segment</name>
         <order>10</order>
-        <screen display_value="My Incidents">de5f8b8adbd30010fc889444ca961999</screen>
+        <screen/>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-03 20:36:17</sys_created_on>

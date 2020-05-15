@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>task-22123,ci_item-22124,ci_item.sys_class_name-32753,task-32754</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":16,"Bottom":16},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"Id":22123,"studio_template_field_id":"E1","CellId":"task","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13}},{"Type":"Text","Margin":{"Top":8},"studio_template_field_id":"E2","TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"medium","Size":18},"CellId":"ci_item","Id":22124},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_field_id":"E3","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${ci_item.sys_class_name}","Id":32752},{"Type":"Text","Margin":{"Right":12},"studio_template_field_id":"E3","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"bold","Size":13},"CellId":"ci_item.sys_class_name","Id":32753,"Text":""},{"Type":"Text","BackgroundColor":"#d1d6d8","Height":12,"Width":1,"Margin":{"Right":12},"TextColor":"#d1d6d8","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular"},"CellId":"task","Id":32754},{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E4","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":32755},{"Type":"Text","studio_template_field_id":"E4","Text":"","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":32756}],"Margin":{"Top":11},"Id":12261}],"studio_card_id":"2ed6c41123412300a8ed7f4fc7bf6568","Id":28090}</item_view_json>
+        <name>Affected CIs Header Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-25 00:02:41</sys_created_on>
+        <sys_id>b0417f7a2f50909051d958a72799b6d9</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Affected CIs Header Item View</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_item_view_b0417f7a2f50909051d958a72799b6d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 01:31:43</sys_updated_on>
+        <table>task_ci</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=b0417f7a2f50909051d958a72799b6d9"/>
+</record_update>

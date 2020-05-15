@@ -4,7 +4,9 @@
         <description>My incidents</description>
         <group_by/>
         <name>My incidents</name>
-        <query_condition table="task">active=true^ORDERBYsys_created_on<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        <query_condition table="incident">active=true^opened_byDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ^ORDERBYsys_created_on<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="opened_by" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
             <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="sys_created_on"/>
         </query_condition>
         <query_condition_script/>
@@ -12,15 +14,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-03 20:33:02</sys_created_on>
         <sys_id>369ec74adbd30010fc889444ca961955</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>19</sys_mod_count>
         <sys_name>My incidents</sys_name>
         <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
         <sys_update_name>sys_sg_data_item_369ec74adbd30010fc889444ca961955</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-09 17:24:38</sys_updated_on>
-        <table>task</table>
+        <sys_updated_on>2020-04-09 21:04:44</sys_updated_on>
+        <table>incident</table>
     </sys_sg_data_item>
     <sys_translated_text action="delete_multiple" query="documentkey=369ec74adbd30010fc889444ca961955"/>
 </record_update>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="DELETE">
+        <operation/>
+        <source/>
+        <source_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</source_scope>
+        <source_table/>
+        <source_type>5</source_type>
+        <status>2</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-11 20:06:30</sys_created_on>
+        <sys_id>7d2e1a142f7054d051d958a72799b6f9</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>de74ba4adb530010fc889444ca9619d6</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_7d2e1a142f7054d051d958a72799b6f9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-11 20:13:07</sys_updated_on>
+        <target>3e30a3c9c61122810068969c218a6d87</target>
+        <target_scope display_value="Global">global</target_scope>
+        <target_table>sysevent_register</target_table>
+        <target_type>4</target_type>
+    </sys_restricted_caller_access>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>b13a3de2db405fc060a6f0e5bf9619e2</instance_id>
+        <instance_name>dev49204</instance_name>
+        <name>sys_restricted_caller_access_7d2e1a142f7054d051d958a72799b6f9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><operation/><source/><source_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</source_scope><source_table/><source_type>5</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-11 20:06:30</sys_created_on><sys_id>7d2e1a142f7054d051d958a72799b6f9</sys_id><sys_mod_count>3</sys_mod_count><sys_name>de74ba4adb530010fc889444ca9619d6</sys_name><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_restricted_caller_access_7d2e1a142f7054d051d958a72799b6f9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-11 20:13:07</sys_updated_on><target>3e30a3c9c61122810068969c218a6d87</target><target_scope display_value="Global">global</target_scope><target_table>sysevent_register</target_table><target_type>4</target_type></sys_restricted_caller_access></record_update>]]></payload>
+        <payload_hash>-956087664</payload_hash>
+        <record_name>de74ba4adb530010fc889444ca9619d6</record_name>
+        <reverted_from/>
+        <source>1274ba4adb530010fc889444ca9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-11 20:13:07</sys_created_on>
+        <sys_id>efbf52942f7054d051d958a72799b607</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172055ea0c60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-11 20:13:07</sys_updated_on>
+        <type>Restricted Caller Access Privilege</type>
+        <update_guid>2bbf5294e37054d0245ca3fdbc6e7407</update_guid>
+        <update_guid_history>2bbf5294e37054d0245ca3fdbc6e7407:-956087664,5e8f5e544d7054d06e499c3ec6ca1a62:1955981236,6aee9254a67054d0ac84faaa0f2bac63:1832113473,723e1e90067054d03e8b854530e6a7bb:907714552</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-11 20:15:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_restricted_caller_access">sys_restricted_caller_access</sys_db_object>
+        <sys_id>968f3d2c5ff04e9687f1aae9681d75c4</sys_id>
+        <sys_metadata>7d2e1a142f7054d051d958a72799b6f9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>de74ba4adb530010fc889444ca9619d6</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_restricted_caller_access_7d2e1a142f7054d051d958a72799b6f9</sys_update_name>
+        <sys_update_version display_value="sys_restricted_caller_access_7d2e1a142f7054d051d958a72799b6f9">efbf52942f7054d051d958a72799b607</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-11 20:15:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

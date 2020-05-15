@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map">
     <sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE">
-        <applet_launcher display_value="CentralStation">a019cf8adb930010fc889444ca961906</applet_launcher>
+        <applet_launcher display_value="Open P0/P1 Critical Incidents">a019cf8adb930010fc889444ca961906</applet_launcher>
         <order/>
         <quick_action_button display_value="Report an Issue">fd93f52487203300e0ef0cf888cb0b6f</quick_action_button>
         <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>

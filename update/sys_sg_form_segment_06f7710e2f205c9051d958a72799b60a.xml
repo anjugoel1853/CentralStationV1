@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Related List">02f7f18a2f205c9051d958a72799b6a3</embedded_screen>
+        <form display_value="My Group CR">3219002c2fa4d49051d958a72799b6ae</form>
+        <order>30</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-04 17:33:00</sys_created_on>
+        <sys_id>06f7710e2f205c9051d958a72799b60a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_form_segment_06f7710e2f205c9051d958a72799b60a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-04 17:33:00</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="104" text_index="true" type="collection">
+        <element function_definition="glidefundtion:datediff(now(),sys_created_on);" function_field="true" label="days from create" max_length="40" name="x_464129_mobile_cs_days_from_create" read_only="true" type="glide_duration"/>
+    </element>
+</database>

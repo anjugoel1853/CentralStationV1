@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="DELETE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Mobile dashboard</name>
+        <required_roles>admin,itil</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-13 18:37:24</sys_created_on>
+        <sys_id>d6045a55db630010fc889444ca9619ad</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Mobile Dashboard</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_d6045a55db630010fc889444ca9619ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-13 19:59:21</sys_updated_on>
+        <title>Mobile Dashboard</title>
+    </sys_sg_applet_launcher>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>aabc055bdbe9db000e785d00cf9619dd</instance_id>
+        <instance_name>dev56972</instance_name>
+        <name>sys_sg_applet_launcher_d6045a55db630010fc889444ca9619ad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher"><sys_sg_applet_launcher action="INSERT_OR_UPDATE"><active>true</active><available_offline>false</available_offline><header_button/><header_titles/><hide_empty_sections>true</hide_empty_sections><name>Mobile dashboard</name><required_roles>admin,itil</required_roles><search_config/><sys_class_name>sys_sg_applet_launcher</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-13 18:37:24</sys_created_on><sys_id>d6045a55db630010fc889444ca9619ad</sys_id><sys_mod_count>6</sys_mod_count><sys_name>Mobile Dashboard</sys_name><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_sg_applet_launcher_d6045a55db630010fc889444ca9619ad</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-13 19:59:21</sys_updated_on><title>Mobile Dashboard</title></sys_sg_applet_launcher></record_update>]]></payload>
+        <payload_hash>1276205199</payload_hash>
+        <record_name>Mobile Dashboard</record_name>
+        <reverted_from/>
+        <source>1274ba4adb530010fc889444ca9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-13 19:59:21</sys_created_on>
+        <sys_id>bac6aed5dba30010fc889444ca961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170d57ad47d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-13 19:59:21</sys_updated_on>
+        <type>Applet Launcher</type>
+        <update_guid>36c6aed50aa3001047201a0956cd8372</update_guid>
+        <update_guid_history>36c6aed50aa3001047201a0956cd8372:1276205199,0886aad5cea30010e21104e00457096c:1552114175,21b656d5ed630010e6bdc481624b5fa8:-1641561367,9666ded5966300105bb70fe66ab5321c:-93270420,0a249e9115630010a1c2f9a01a2d304f:1552114175,5e045a5508630010f6ff8a182a628bae:-568569223</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-03 16:34:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher">sys_sg_applet_launcher</sys_db_object>
+        <sys_id>4976f69938174153b7f8563bf0741d61</sys_id>
+        <sys_metadata>d6045a55db630010fc889444ca9619ad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobile Dashboard</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_d6045a55db630010fc889444ca9619ad</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_d6045a55db630010fc889444ca9619ad">bac6aed5dba30010fc889444ca961972</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-03 16:34:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

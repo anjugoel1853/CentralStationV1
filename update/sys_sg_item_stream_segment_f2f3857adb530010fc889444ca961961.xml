@@ -3,7 +3,7 @@
         <interleave_order_direction>asc</interleave_order_direction>
         <name>Item Stream Segment</name>
         <order>10</order>
-        <screen display_value="Open P1s">2af3017adb530010fc889444ca96198f</screen>
+        <screen display_value="Open P0/P1Cs">2af3017adb530010fc889444ca96198f</screen>
         <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-05 18:22:49</sys_created_on>

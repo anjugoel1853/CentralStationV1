@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>7278871a2f40905051d958a72799b6e3,5459bae52f185c5051d958a72799b673,a2d484e42fa4d49051d958a72799b68f</applets>
+        <data_item/>
+        <display_feed_count>true</display_feed_count>
+        <hide_header>true</hide_header>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-10 21:51:06</sys_created_on>
+        <sys_id>b4ec475e2f40905051d958a72799b63f</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Open CRs</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_icon_section_b4ec475e2f40905051d958a72799b63f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-12 20:53:56</sys_updated_on>
+        <table/>
+        <title>Open CRs</title>
+        <visible_condition/>
+    </sys_sg_icon_section>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="DELETE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","FontColor":"#FFFFFF","Value":"e935","Name":"icon-Cart","type":"user"}</icon>
+        <name>User Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-27 20:13:14</sys_created_on>
+        <sys_id>f23032b12fb7801051d958a72799b64d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Icon</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_icon_f23032b12fb7801051d958a72799b64d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-27 20:13:14</sys_updated_on>
+        <type>user</type>
+    </sys_sg_icon>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>b13a3de2db405fc060a6f0e5bf9619e2</instance_id>
+        <instance_name>dev49204</instance_name>
+        <name>sys_sg_icon_f23032b12fb7801051d958a72799b64d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon"><sys_sg_icon action="INSERT_OR_UPDATE"><icon>{"Shape":"Circle","FontName":"now-mobile-icons","FontColor":"#FFFFFF","Value":"e935","Name":"icon-Cart","type":"user"}</icon><name>User Icon</name><sys_class_name>sys_sg_icon</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-27 20:13:14</sys_created_on><sys_id>f23032b12fb7801051d958a72799b64d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>User Icon</sys_name><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_sg_icon_f23032b12fb7801051d958a72799b64d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-27 20:13:14</sys_updated_on><type>user</type></sys_sg_icon></record_update>]]></payload>
+        <payload_hash>-37863121</payload_hash>
+        <record_name>User Icon</record_name>
+        <reverted_from/>
+        <source>1274ba4adb530010fc889444ca9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-27 20:13:14</sys_created_on>
+        <sys_id>723032b12fb7801051d958a72799b64f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1711da092890000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-27 20:13:14</sys_updated_on>
+        <type>Icon</type>
+        <update_guid>ba3032b1e5b78010b958bd7d4a2fad4e</update_guid>
+        <update_guid_history>ba3032b1e5b78010b958bd7d4a2fad4e:-37863121</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-27 20:13:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_icon">sys_sg_icon</sys_db_object>
+        <sys_id>091f01dd435e4bbfadae41ff82729301</sys_id>
+        <sys_metadata>f23032b12fb7801051d958a72799b64d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Icon</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_sg_icon_f23032b12fb7801051d958a72799b64d</sys_update_name>
+        <sys_update_version display_value="sys_sg_icon_f23032b12fb7801051d958a72799b64d">723032b12fb7801051d958a72799b64f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-27 20:13:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

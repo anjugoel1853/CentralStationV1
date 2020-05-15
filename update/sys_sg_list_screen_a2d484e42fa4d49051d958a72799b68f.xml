@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <fetch_type>on_demand</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Address-Book">62d484e42fa4d49051d958a72799b689</icon>
+        <name>Group CRs</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 17:19:10</sys_created_on>
+        <sys_id>a2d484e42fa4d49051d958a72799b68f</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Group CRs</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_list_screen_a2d484e42fa4d49051d958a72799b68f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 17:22:04</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=a2d484e42fa4d49051d958a72799b68f"/>
+</record_update>

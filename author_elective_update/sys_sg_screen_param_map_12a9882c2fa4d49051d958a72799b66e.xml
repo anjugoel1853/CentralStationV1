@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
+    <sys_sg_screen_param_map action="DELETE">
+        <item_parameter display_value="PDI_group_CR">f5e8c8a82fa4d49051d958a72799b6cb</item_parameter>
+        <screen display_value="PDI_Group_CR">7a194ce82fa4d49051d958a72799b625</screen>
+        <sys_class_name>sys_sg_screen_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 17:40:10</sys_created_on>
+        <sys_id>12a9882c2fa4d49051d958a72799b66e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f5e8c8a82fa4d49051d958a72799b6cb</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_screen_param_map_12a9882c2fa4d49051d958a72799b66e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 17:40:10</sys_updated_on>
+        <ui_parameter display_value="Group_CR_parameter">6299442c2fa4d49051d958a72799b6ec</ui_parameter>
+    </sys_sg_screen_param_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>b13a3de2db405fc060a6f0e5bf9619e2</instance_id>
+        <instance_name>dev49204</instance_name>
+        <name>sys_sg_screen_param_map_12a9882c2fa4d49051d958a72799b66e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map"><sys_sg_screen_param_map action="INSERT_OR_UPDATE"><item_parameter display_value="PDI_group_CR">f5e8c8a82fa4d49051d958a72799b6cb</item_parameter><screen display_value="PDI_Group_CR">7a194ce82fa4d49051d958a72799b625</screen><sys_class_name>sys_sg_screen_param_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-29 17:40:10</sys_created_on><sys_id>12a9882c2fa4d49051d958a72799b66e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>f5e8c8a82fa4d49051d958a72799b6cb</sys_name><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_sg_screen_param_map_12a9882c2fa4d49051d958a72799b66e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-29 17:40:10</sys_updated_on><ui_parameter display_value="Group_CR_parameter">6299442c2fa4d49051d958a72799b6ec</ui_parameter></sys_sg_screen_param_map></record_update>]]></payload>
+        <payload_hash>1172870337</payload_hash>
+        <record_name>f5e8c8a82fa4d49051d958a72799b6cb</record_name>
+        <reverted_from/>
+        <source>1274ba4adb530010fc889444ca9619d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 17:40:10</sys_created_on>
+        <sys_id>9aa9882c2fa4d49051d958a72799b670</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c7064b6f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 17:40:10</sys_updated_on>
+        <type>Screen parameters mapping</type>
+        <update_guid>d2a9882c58a4d4900037f79afc4ec470</update_guid>
+        <update_guid_history>d2a9882c58a4d4900037f79afc4ec470:1172870337</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 19:27:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_param_map">sys_sg_screen_param_map</sys_db_object>
+        <sys_id>0a3be023b09a45e2807d043329232ae4</sys_id>
+        <sys_metadata>12a9882c2fa4d49051d958a72799b66e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f5e8c8a82fa4d49051d958a72799b6cb</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_param_map_12a9882c2fa4d49051d958a72799b66e</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_param_map_12a9882c2fa4d49051d958a72799b66e">9aa9882c2fa4d49051d958a72799b670</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 19:27:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

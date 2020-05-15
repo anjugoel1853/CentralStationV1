@@ -2,7 +2,7 @@
     <sys_sg_item_section action="INSERT_OR_UPDATE">
         <active>true</active>
         <data_item/>
-        <destination_screen display_value="My Incidents">de5f8b8adbd30010fc889444ca961999</destination_screen>
+        <destination_screen/>
         <display_title>false</display_title>
         <hide_header>false</hide_header>
         <max_items_display_count>15</max_items_display_count>

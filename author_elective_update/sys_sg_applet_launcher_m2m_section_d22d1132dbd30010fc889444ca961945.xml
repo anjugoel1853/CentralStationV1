@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="CentralStation">a019cf8adb930010fc889444ca961906</applet_launcher>
+        <order>30</order>
+        <section display_value="My Approvals">d22d1132dbd30010fc889444ca961943</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-05 20:12:50</sys_created_on>
+        <sys_id>d22d1132dbd30010fc889444ca961945</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_d22d1132dbd30010fc889444ca961945</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-11 18:12:42</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>aabc055bdbe9db000e785d00cf9619dd</instance_id>
+        <instance_name>dev56972</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_d22d1132dbd30010fc889444ca961945</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="CentralStation">a019cf8adb930010fc889444ca961906</applet_launcher><order>30</order><section display_value="My Approvals">d22d1132dbd30010fc889444ca961943</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-05 20:12:50</sys_created_on><sys_id>d22d1132dbd30010fc889444ca961945</sys_id><sys_mod_count>4</sys_mod_count><sys_name/><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_d22d1132dbd30010fc889444ca961945</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-11 18:12:42</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>-458783028</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>6c903b68db274010fc889444ca961940</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-11 18:12:42</sys_created_on>
+        <sys_id>093b7ba4db674010fc889444ca9619e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170cacc79420000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-11 18:12:42</sys_updated_on>
+        <type>Applet Launcher Sections</type>
+        <update_guid>813b7ba439674010c897338df9f55de4</update_guid>
+        <update_guid_history>813b7ba439674010c897338df9f55de4:-458783028,d7c9b724e3674010fbdd0a46ed07081c:-561260021,41193b248b6740103009570e8e4d81b2:-458783028,7a2dd1fee79300109706771bcdd0cce7:-561260021,562d1132c4d300106bca93633ec10746:-458783028</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-10 19:28:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>373809870ebf444290b89f9167c74ce4</sys_id>
+        <sys_metadata>d22d1132dbd30010fc889444ca961945</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_d22d1132dbd30010fc889444ca961945</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_d22d1132dbd30010fc889444ca961945">093b7ba4db674010fc889444ca9619e4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-10 19:28:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
