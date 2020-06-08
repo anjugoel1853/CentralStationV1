@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
     <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
-        <navigation display_value="Mobile Agent Nav">0188b0a2db170010fc889444ca961928</navigation>
+        <navigation display_value="">0188b0a2db170010fc889444ca961928</navigation>
         <navigation_tab display_value="Open P0/P1">913c97c6db170010fc889444ca961972</navigation_tab>
         <order>100</order>
         <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>

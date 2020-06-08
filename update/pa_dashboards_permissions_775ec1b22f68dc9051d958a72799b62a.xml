@@ -19,7 +19,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-05-06 22:26:42</sys_updated_on>
         <type>3</type>
-        <user display_value="Jessica DQ">96ea6f2e2f27401051d958a72799b6dd</user>
+        <user display_value="">96ea6f2e2f27401051d958a72799b6dd</user>
         <write>false</write>
     </pa_dashboards_permissions>
 </record_update>

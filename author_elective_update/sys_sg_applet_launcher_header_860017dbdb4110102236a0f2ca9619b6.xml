@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_header">
+    <sys_sg_applet_launcher_header action="DELETE">
+        <sys_class_name>sys_sg_applet_launcher_header</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 17:41:33</sys_created_on>
+        <sys_id>860017dbdb4110102236a0f2ca9619b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open P0/P1 Critical Incidents {{4e0017dbdb4110102236a0f2ca9619b2}}</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_header_860017dbdb4110102236a0f2ca9619b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 17:41:33</sys_updated_on>
+        <text>Open P0/P1 Critical Incidents {{4e0017dbdb4110102236a0f2ca9619b2}}</text>
+        <variables>4e0017dbdb4110102236a0f2ca9619b2</variables>
+    </sys_sg_applet_launcher_header>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>370c0054db046f0489535d00cf96192d</instance_id>
+        <instance_name>dev70832</instance_name>
+        <name>sys_sg_applet_launcher_header_860017dbdb4110102236a0f2ca9619b6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_header"><sys_sg_applet_launcher_header action="INSERT_OR_UPDATE"><sys_class_name>sys_sg_applet_launcher_header</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-02 17:41:33</sys_created_on><sys_id>860017dbdb4110102236a0f2ca9619b6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open P0/P1 Critical Incidents {{4e0017dbdb4110102236a0f2ca9619b2}}</sys_name><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_sg_applet_launcher_header_860017dbdb4110102236a0f2ca9619b6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-02 17:41:33</sys_updated_on><text>Open P0/P1 Critical Incidents {{4e0017dbdb4110102236a0f2ca9619b2}}</text><variables>4e0017dbdb4110102236a0f2ca9619b2</variables></sys_sg_applet_launcher_header></record_update>]]></payload>
+        <payload_hash>-2145234285</payload_hash>
+        <record_name>Open P0/P1 Critical Incidents {{4e0017dbdb4110102236a0f2ca9619b2}}</record_name>
+        <reverted_from/>
+        <source>2ba84f5fdb0110102236a0f2ca96193a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 17:41:34</sys_created_on>
+        <sys_id>c60017dbdb4110102236a0f2ca9619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172761fc8d20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 17:41:34</sys_updated_on>
+        <type>Header Title</type>
+        <update_guid>020017dbd1411010c4012493f24538b8</update_guid>
+        <update_guid_history>020017dbd1411010c4012493f24538b8:-2145234285</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 17:41:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_header">sys_sg_applet_launcher_header</sys_db_object>
+        <sys_id>01001529e9b84b608001022d1dd2a040</sys_id>
+        <sys_metadata>860017dbdb4110102236a0f2ca9619b6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open P0/P1 Critical Incidents {{4e0017dbdb4110102236a0f2ca9619b2}}</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_header_860017dbdb4110102236a0f2ca9619b6</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_header_860017dbdb4110102236a0f2ca9619b6">c60017dbdb4110102236a0f2ca9619b8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 17:41:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

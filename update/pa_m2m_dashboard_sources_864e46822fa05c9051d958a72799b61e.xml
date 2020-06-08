@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_sources">
     <pa_m2m_dashboard_sources action="INSERT_OR_UPDATE">
-        <breakdown_source display_value="Groups.Active">cca9d8161317b20005ef54c32244b07e</breakdown_source>
+        <breakdown_source display_value="Active (Buckets)">cca9d8161317b20005ef54c32244b07e</breakdown_source>
         <dashboard display_value="IS&amp;T - Incident Management">e9fc06ce2f605c9051d958a72799b646</dashboard>
         <order>100</order>
         <publisher/>

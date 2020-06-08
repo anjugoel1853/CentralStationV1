@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Launcher Button">041057dbdb4110102236a0f2ca961934</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">001057dbdb4110102236a0f2ca961932</icon>
+        <label>Open P0/P1 Launcher Button Instance</label>
+        <location>top</location>
+        <name>Open P0/P1 Launcher Button Instance</name>
+        <order/>
+        <parent>a019cf8adb930010fc889444ca961906</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 17:41:42</sys_created_on>
+        <sys_id>801057dbdb4110102236a0f2ca961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open P0/P1 Launcher Button Instance</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_button_instance_801057dbdb4110102236a0f2ca961943</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 17:41:42</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=801057dbdb4110102236a0f2ca961943"/>
+</record_update>

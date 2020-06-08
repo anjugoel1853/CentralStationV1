@@ -45,7 +45,7 @@
         <update_guid_history>f47a068ed8605c907fee06a1dbac03c5:265463421,f47a068ed8605c907fee06a1dbac03c5:265463421,f47a068ed8605c907fee06a1dbac03c5:265463421</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="New Tab">2c3b86ce2f605c9051d958a72799b609</sys_audit_delete>
+        <sys_audit_delete display_value="">2c3b86ce2f605c9051d958a72799b609</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-04 18:57:00</sys_created_on>

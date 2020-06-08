@@ -14,15 +14,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-10 17:45:27</sys_created_on>
         <sys_id>524be294dba30010fc889444ca9619a0</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Mobile Dashboard</sys_name>
         <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
         <sys_update_name>sys_sg_browser_screen_524be294dba30010fc889444ca9619a0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-04 19:31:54</sys_updated_on>
-        <url>https://dev49204.service-now.com/$pa_dashboard.do?sysparm_dashboard=e9fc06ce2f605c9051d958a72799b646&amp;sysparm_tab=d5cbb031d7201100b96d45a3ce61036d&amp;sysparm_cancelable=true&amp;sysparm_editable=false&amp;sysparm_active_panel=false&amp;sysparm_element=287ebd7da9fe198100f92cc8d1d2154e&amp;sysparm_element_value=287ebd7da9fe198100f92cc8d1d2154e&amp;sysparm_breakdown_source=cca9d8161317b20005ef54c32244b07e</url>
+        <sys_updated_on>2020-06-02 23:36:05</sys_updated_on>
+        <url>https://dev70832.service-now.com/$pa_dashboard.do?sysparm_dashboard=e9fc06ce2f605c9051d958a72799b646&amp;sysparm_tab=800d06022fa05c9051d958a72799b6a3&amp;sysparm_cancelable=true&amp;sysparm_editable=undefined&amp;sysparm_active_panel=false</url>
     </sys_sg_browser_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=524be294dba30010fc889444ca9619a0"/>
 </record_update>

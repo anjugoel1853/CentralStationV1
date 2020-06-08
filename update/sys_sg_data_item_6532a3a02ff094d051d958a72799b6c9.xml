@@ -6,7 +6,7 @@
         <name>P1S</name>
         <query_condition table="incident">active=true^state!=6^priority=6<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
             <item display_value="Resolved" endquery="false" field="state" goto="false" newquery="false" operator="!=" or="false" value="6"/>
-            <item display_value="1 - Support" endquery="false" field="priority" goto="false" newquery="false" operator="=" or="false" value="6"/>
+            <item display_value="6" endquery="false" field="priority" goto="false" newquery="false" operator="=" or="false" value="6"/>
         </query_condition>
         <query_condition_script/>
         <sys_class_name>sys_sg_data_item</sys_class_name>

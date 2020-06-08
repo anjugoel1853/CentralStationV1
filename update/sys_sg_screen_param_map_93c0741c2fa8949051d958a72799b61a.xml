@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
     <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
         <item_parameter display_value="PDI_incident_number">6d407c5c2fa8949051d958a72799b6cb</item_parameter>
-        <screen display_value="Time Worked">c4a03c9c2fa8949051d958a72799b6f6</screen>
+        <screen display_value="">c4a03c9c2fa8949051d958a72799b6f6</screen>
         <sys_class_name>sys_sg_screen_param_map</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-29 01:52:42</sys_created_on>
@@ -14,6 +14,6 @@
         <sys_update_name>sys_sg_screen_param_map_93c0741c2fa8949051d958a72799b61a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-04-29 01:52:42</sys_updated_on>
-        <ui_parameter display_value="PDI_incident_number">9bb0345c2fa8949051d958a72799b6a8</ui_parameter>
+        <ui_parameter display_value="">9bb0345c2fa8949051d958a72799b6a8</ui_parameter>
     </sys_sg_screen_param_map>
 </record_update>

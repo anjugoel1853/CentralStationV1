@@ -60,7 +60,7 @@
         <update_guid_history>787a868e0d605c908145a3ef365bd725:1202901924</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Mobile Agent Dashboard">e03b86ce2f605c9051d958a72799b610</sys_audit_delete>
+        <sys_audit_delete display_value="">e03b86ce2f605c9051d958a72799b610</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-04 18:57:00</sys_created_on>

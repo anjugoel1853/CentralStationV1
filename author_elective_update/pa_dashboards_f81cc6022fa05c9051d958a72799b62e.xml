@@ -60,7 +60,7 @@
         <update_guid_history>452c8a029ea05c90aba5170c348c17d4:-770090642</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Mobile Dashboard">babcc2422fa05c9051d958a72799b602</sys_audit_delete>
+        <sys_audit_delete display_value="">babcc2422fa05c9051d958a72799b602</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-04 19:03:43</sys_created_on>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_param_map">
     <sys_sg_screen_param_map action="INSERT_OR_UPDATE">
         <item_parameter display_value="PDI_incident_number">6d407c5c2fa8949051d958a72799b6cb</item_parameter>
-        <screen display_value="Related Records">5771b8dc2fa8949051d958a72799b6eb</screen>
+        <screen display_value="">5771b8dc2fa8949051d958a72799b6eb</screen>
         <sys_class_name>sys_sg_screen_param_map</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-29 01:56:19</sys_created_on>
@@ -14,6 +14,6 @@
         <sys_update_name>sys_sg_screen_param_map_5ca178dc2fa8949051d958a72799b6c3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-04-29 01:56:19</sys_updated_on>
-        <ui_parameter display_value="PDI_incident_number">c49178dc2fa8949051d958a72799b6bf</ui_parameter>
+        <ui_parameter display_value="">c49178dc2fa8949051d958a72799b6bf</ui_parameter>
     </sys_sg_screen_param_map>
 </record_update>

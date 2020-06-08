@@ -57,7 +57,7 @@
         <update_guid_history>60f3f33ea2e380105ed35d284bcdbd57:2109959477,e4f3f33ef9e38010640cd04648345053:1242907252,a0f3f33eb9e38010810ddd2c0b7ab544:375855027,d4f3f33ed0e38010a0c0866fd68b7525:-491197198,d4f3f33e5be380105549ebe6e224b720:1240427205</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="New Survey">6a35777e2fe3801051d958a72799b6e9</sys_audit_delete>
+        <sys_audit_delete display_value="">6a35777e2fe3801051d958a72799b6e9</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-18 17:32:55</sys_created_on>

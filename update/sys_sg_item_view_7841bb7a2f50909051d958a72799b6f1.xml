@@ -9,14 +9,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-25 00:02:41</sys_created_on>
         <sys_id>7841bb7a2f50909051d958a72799b6f1</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name>Affected CIs Item View</sys_name>
         <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
         <sys_update_name>sys_sg_item_view_7841bb7a2f50909051d958a72799b6f1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-29 01:31:43</sys_updated_on>
+        <sys_updated_on>2020-06-02 20:52:09</sys_updated_on>
         <table>task_ci</table>
         <ui_styles/>
     </sys_sg_item_view>

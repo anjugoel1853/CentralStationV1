@@ -8,7 +8,7 @@
         <hidden>false</hidden>
         <order>10</order>
         <record_id_field/>
-        <screen display_value="Details">5f71b8dc2fa8949051d958a72799b6f5</screen>
+        <screen display_value="">5f71b8dc2fa8949051d958a72799b6f5</screen>
         <screen_data_item_table>incident</screen_data_item_table>
         <sys_class_name>sys_sg_screen_field</sys_class_name>
         <sys_created_by>admin</sys_created_by>

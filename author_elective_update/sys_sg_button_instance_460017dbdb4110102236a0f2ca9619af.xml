@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">02001f1bdb4110102236a0f2ca9619ed</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">0e001f1bdb4110102236a0f2ca9619ea</icon>
+        <label>Open P0/P1 Launcher Button Instance</label>
+        <location>top</location>
+        <name>Open P0/P1 Launcher Button Instance</name>
+        <order/>
+        <parent>a019cf8adb930010fc889444ca961906</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 17:41:33</sys_created_on>
+        <sys_id>460017dbdb4110102236a0f2ca9619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open P0/P1 Launcher Button Instance</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_update_name>sys_sg_button_instance_460017dbdb4110102236a0f2ca9619af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 17:41:33</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=460017dbdb4110102236a0f2ca9619af"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</application>
+        <file_path/>
+        <instance_id>370c0054db046f0489535d00cf96192d</instance_id>
+        <instance_name>dev70832</instance_name>
+        <name>sys_sg_button_instance_460017dbdb4110102236a0f2ca9619af</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">02001f1bdb4110102236a0f2ca9619ed</button><color_theme>primary</color_theme><description/><field_name/><icon display_value="User Icon">0e001f1bdb4110102236a0f2ca9619ea</icon><label>Open P0/P1 Launcher Button Instance</label><location>top</location><name>Open P0/P1 Launcher Button Instance</name><order/><parent>a019cf8adb930010fc889444ca961906</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-02 17:41:33</sys_created_on><sys_id>460017dbdb4110102236a0f2ca9619af</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open P0/P1 Launcher Button Instance</sys_name><sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package><sys_policy/><sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope><sys_update_name>sys_sg_button_instance_460017dbdb4110102236a0f2ca9619af</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-02 17:41:33</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=460017dbdb4110102236a0f2ca9619af"/></record_update>]]></payload>
+        <payload_hash>760789076</payload_hash>
+        <record_name>Open P0/P1 Launcher Button Instance</record_name>
+        <reverted_from/>
+        <source>2ba84f5fdb0110102236a0f2ca96193a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 17:41:33</sys_created_on>
+        <sys_id>0a0017dbdb4110102236a0f2ca9619b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172761fc8710000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 17:41:33</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>420017db6a41101093debfe9afa9e2b2</update_guid>
+        <update_guid_history>420017db6a41101093debfe9afa9e2b2:760789076</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-02 17:41:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>1b17ee6dee1c4ef799688a9ff9fd1549</sys_id>
+        <sys_metadata>460017dbdb4110102236a0f2ca9619af</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open P0/P1 Launcher Button Instance</sys_name>
+        <sys_package display_value="Mobile_CS" source="x_464129_mobile_cs">de74ba4adb530010fc889444ca9619d6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile_CS">de74ba4adb530010fc889444ca9619d6</sys_scope>
+        <sys_scope_delete display_value="">39024289db2d4b36989d15dc1a64bd64</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_460017dbdb4110102236a0f2ca9619af</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_460017dbdb4110102236a0f2ca9619af">0a0017dbdb4110102236a0f2ca9619b2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-02 17:41:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

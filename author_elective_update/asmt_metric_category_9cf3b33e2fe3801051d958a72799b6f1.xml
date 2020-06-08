@@ -57,7 +57,7 @@
         <update_guid_history>10f3b33e6ae380106c7ede6fcb37ccf7:640236933</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="New Survey">bcf3f33e2fe3801051d958a72799b67f</sys_audit_delete>
+        <sys_audit_delete display_value="">bcf3f33e2fe3801051d958a72799b67f</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-18 17:27:21</sys_created_on>

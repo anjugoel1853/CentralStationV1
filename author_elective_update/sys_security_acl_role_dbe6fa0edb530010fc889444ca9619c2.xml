@@ -42,7 +42,7 @@
         <update_guid_history>17e6fa0e2d530010bed671733bdc7dc5:468277386</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_464129_mobile_cs_incidents.x_464129_mobile_cs.incidents_user">a2b2df4edbd30010fc889444ca961910</sys_audit_delete>
+        <sys_audit_delete display_value="">a2b2df4edbd30010fc889444ca961910</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-03 20:51:02</sys_created_on>
